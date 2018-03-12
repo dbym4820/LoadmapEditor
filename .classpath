@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding=".DS_Store" kind="src" path="src"/>
+	<classpathentry excluding=".DS_Store" kind="src" path="database"/>
+	<classpathentry excluding=".DS_Store" kind="src" path="CreatePicts"/>
+	<classpathentry excluding=".DS_Store" kind="src" output="bin" path="picts"/>
+	<classpathentry excluding=".DS_Store" kind="src" path="mxgraph/java/examples"/>
+	<classpathentry excluding=".DS_Store" kind="src" path="mxgraph/java/src"/>
+	<classpathentry excluding=".DS_Store" kind="src" path="mxgraph/java/test"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/iText-2.1.7_mx-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/jetty-6.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/jetty-util-6.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/junit-4.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/servlet-api-2.5-6.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="sqlite/sqlite-jdbc.jar"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/mxgraph-all.jar"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/mxgraph-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="mxgraph/java/jars/mxgraph-swing.jar"/>
+	<classpathentry kind="lib" path="jpopupcalendar/jpopupcalendar.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
